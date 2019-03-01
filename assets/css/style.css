@@ -1,13 +1,3 @@
-html {
-    display: table;
-    margin: auto;
-}
- 
- body {
-    background-image: url("/Users/vanikarikalan/Desktop/My-First-Portfolio/Basic-Portfolio/assets/images/concrete-texture.gif");
-    width: 960px;
-}
-
 /* Header Styling */
 .header {
     margin: 0px;
@@ -16,7 +6,7 @@ html {
     right: 0;
     background-color: #ffffff;
     border-bottom:  #cccccc solid;
-    width: 100%;
+    /* width: 100%; */
     position: fixed;        
     padding: 0px;
     height: 70px
@@ -26,6 +16,7 @@ html {
     text-decoration: none;
     color:  #ffffff;
 }
+
 /* Profile Name Styling */
 .heading {
     margin: 0px;
@@ -44,8 +35,6 @@ html {
     padding: 20px;
     text-align: center
  }
-
-
 
  /* Navigation Bar */
  nav h5{
