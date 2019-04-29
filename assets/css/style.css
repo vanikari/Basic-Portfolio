@@ -255,6 +255,12 @@
     display: table;
     clear: both;
   }
+
+  /* Resume Link */
+
+  #resume {
+    color: #777777
+  }
   
   /* Footer Styling */
   .footer {
